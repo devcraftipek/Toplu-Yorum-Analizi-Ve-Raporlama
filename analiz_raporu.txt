@@ -1,0 +1,15 @@
+
+        --- DUYGU ANALİZİ RAPORU ---
+
+        Genel Durum
+        -----------------
+        Toplam Yorum: 6
+        Pozitif     : 1
+        Negatif     : 0
+        Nötr     : 5
+
+        En Mutlu Müşteri (95 Puan)
+
+        En Kızgın Müşteri (0 Puan)
+
+    

@@ -7,7 +7,7 @@ Bu proje, yapay zeka (Gemini API) kullanarak metin tabanlı müşteri yorumları
 - **Detaylı Raporlama:** Analiz sonunda Pozitif/Negatif/Nötr dağılımını ve en uç örnekleri (en mutlu/en kızgın) raporlar.
 - **JSON Yapısı:** API yanıtlarını standart JSON formatında işleyerek hata payını minimize eder.
 
-- Kullanım
+## Kullanım
 1. yorumlar.txt dosyasına analiz etmek istediğiniz yorumları her satıra bir tane gelecek şekilde ekleyin.
 
 2. Ana programı çalıştırın:
